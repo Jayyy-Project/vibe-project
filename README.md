@@ -1,6 +1,6 @@
 # VIBE VIDEO PATCHER (Desktop Standalone)
 
-Aplikasi desktop mandiri untuk mem-patch video MP4 agar **bisa di-upload ke Platform Video tanpa kompresi / penurunan kualitas** (Bypass Re-encoding Server Platform Video), **tanpa perlu membuka atau login ke web Platform Video di dalam aplikasi**, dan **tanpa verifikasi Discord**.
+Aplikasi desktop mandiri untuk mem-patch video MP4 agar **bisa di-upload ke Platform Video tanpa kompresi / penurunan kualitas** (Bypass Re-encoding Server Platform Video), **tanpa perlu membuka atau login ke web Platform Video di dalam aplikasi**.
 
 ---
 
